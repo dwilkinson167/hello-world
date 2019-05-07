@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{140:function(e,n,t){"use strict";t.r(n);var l=t(0),a=t.n(l);n.default=function(){return a.a.createElement("div",{style:{color:"purple"}},a.a.createElement("h1",null,"Wilko Web Services"),a.a.createElement("p",null,"Stay tuned..."))}}}]);
-//# sourceMappingURL=component---src-pages-index-js-222861fc94ea0221675d.js.map
