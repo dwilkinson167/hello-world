@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e807c14-5ce8-47ae-bc29-f5d11a7f1a14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-browser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app-18e6eb74c63d9e10bf6d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app-18e6eb74c63d9e10bf6d.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chunk-map.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component---src-pages-index-js-222861fc94ea0221675d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component---src-pages-index-js-222861fc94ea0221675d.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/container.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/container.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages-manifest-65bd2477f31c6e238d8e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages-manifest-65bd2477f31c6e238d8e.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/about-css-modules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/about-css-modules.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/about.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/contact.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/pricing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/static/d/140/path---index-6a9-0SUcWyAf8ecbYDsMhQkEfPzV8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/static/d/386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/global.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webpack-runtime-3dc3f5ecee56ffbbe906.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webpack-runtime-3dc3f5ecee56ffbbe906.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webpack.stats.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pricing/pricing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pricing/pricing.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,13 +38,31 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hero/hero.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="-404">
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pricing/pricing.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/about/about.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="26" lean-forward="true" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -92,6 +82,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/pages/about-css-modules.js" />
         <option value="$PROJECT_DIR$/src/contact/contact.js" />
+        <option value="$PROJECT_DIR$/src/pricing/pricing.js" />
       </list>
     </option>
   </component>
@@ -100,6 +91,9 @@
     <option name="y" value="37" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -140,6 +134,12 @@
               <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello-world" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="contact" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -153,6 +153,12 @@
               <item name="hello-world" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pricing" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -200,15 +206,16 @@
       <option name="presentableId" value="Default" />
       <updated>1556654903477</updated>
       <workItem from="1556654906883" duration="2952000" />
-      <workItem from="1557260282904" duration="1944000" />
+      <workItem from="1557260282904" duration="2937000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4896000" />
+    <option name="totallyTimeSpent" value="5889000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="29" width="1920" height="1051" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14919786" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -265,10 +272,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hero/hero.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-404">
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pricing/pricing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/about/about.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" lean-forward="true" selection-end-column="26" />
         </state>
       </provider>
     </entry>
